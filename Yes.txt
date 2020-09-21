@@ -1,6 +1,1 @@
-yes or no 
-
-
-
-
-bolo
+yes or no or yes
